@@ -3,6 +3,8 @@
   "name": "X Follow Highlight",
   "version": "1.0.1",
   "description": "Automatically highlights the 'Follows you' indicator in bright green on X (Twitter), independent of interface language.",
+  "author": "kuntekul (https://x.com/kuntekul)",
+  "homepage_url": "https://x.com/kuntekul",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",

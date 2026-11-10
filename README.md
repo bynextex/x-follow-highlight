@@ -24,6 +24,7 @@ A lightweight, production-ready Google Chrome extension (Manifest V3) that autom
 - [Performance & Security Standards](#performance--security-standards)
 - [Privacy Statement](#privacy-statement)
 - [Disclaimer](#disclaimer)
+- [Author & Creator](#author--creator)
 - [License](#license)
 
 ---
@@ -184,6 +185,14 @@ The official X website can be found at [https://x.com](https://x.com). "X" and "
 
 ---
 
+## Author & Creator
+
+- **Created by:** [@kuntekul](https://x.com/kuntekul)
+- **Repository:** [https://github.com/bynextex/x-follow-highlight](https://github.com/bynextex/x-follow-highlight)
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it in accordance with the terms of the license.
+

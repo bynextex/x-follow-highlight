@@ -256,9 +256,27 @@ input:focus-visible + .slider {
   padding-top: 2px;
 }
 
-.footer-status {
+.creator-link {
   font-size: 11px;
-  color: var(--text-muted);
+  color: var(--text-secondary);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  transition: color var(--transition-fast);
+}
+
+.creator-link:hover {
+  color: var(--text-primary);
+}
+
+.creator-name {
+  color: var(--accent-green);
+  font-weight: 600;
+}
+
+.creator-link:hover .creator-name {
+  text-decoration: underline;
 }
 
 .repo-link {
@@ -280,3 +298,4 @@ input:focus-visible + .slider {
   width: 13px;
   height: 13px;
 }
+
